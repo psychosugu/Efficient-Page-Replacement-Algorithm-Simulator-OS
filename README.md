@@ -20,7 +20,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/Page-Replacement-Simulator.git  
+git clone (https://github.com/psychosugu/Efficient-Page-Replacement-Algorithm-Simulator-OS)
 cd Page-Replacement-Simulator  
 pip install matplotlib numpy  
 python main.py  
